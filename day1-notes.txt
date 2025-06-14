@@ -1,0 +1,18 @@
+Day 1: Introduction to Cloud Computing
+
+1. What is cloud computing?
+Cloud computing allows users to store and access data and computing resources over the internet without needing physical infrastructure.
+
+2. Examples of cloud services I use:
+- Gmail
+- Google Drive
+- YouTube
+
+3. Why companies use cloud computing:
+- Flexible and accessible
+- Cost-effective
+- Easy to scale and manage
+- Offers high-level security
+
+Date: 13 June 2025
+By: Farzeen
